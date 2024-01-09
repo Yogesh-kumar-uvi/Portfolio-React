@@ -86,7 +86,7 @@ const Home = () => {
 
           <div className="video-link">
             <div className="link">
-              <a href="">
+              <a href="#video">
                 <FaPlay />
               </a>
             </div>
@@ -98,7 +98,7 @@ const Home = () => {
             <img src={HeroImg} alt="hero image" />
             <div className="hero-section__image-half-round-shape"></div>
             <div className="social-links">
-              <a href="https://www.facebook.com/profile.php?id=100066574772107">
+              <a href="https://www.facebook.com/profile.">
                 <FaFacebookF />
               </a>
               <a href="https://twitter.com/your-twitter-handle">

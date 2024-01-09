@@ -14,7 +14,7 @@ const Header = () => {
 		<div className={`nav ${isMobileMenuOpen ? 'mobile-menu-open' : ''}`}>
 			{/* BLOCK ELEMENT MODIFIER */}
 			<div className='nav__wrapper container'>
-				<div className='nav__logo'>Fallon Carrington</div>
+				<div className='nav__logo'>Yogesh Kumar</div>
 				<ul className={`nav__menu ${isMobileMenuOpen ? 'mobile-menu' : ''}`}>
 					<li className='nav__menu-items'>
 						<a href='#home'>Home</a>
